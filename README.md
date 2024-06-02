@@ -1,7 +1,7 @@
-# business_case_adEase_timee-Series
+# business_case_adEase_time_series
 
 
-#Ad Ease website Analytics
+# Ad Ease website Analytics
 ## Dataset: Web Traffic Time Series Forecasting
 
 Forecasting the future values of multiple time series. More specifically the problem of forecasting future web traffic for approximately 145,000 articles on britanica.
